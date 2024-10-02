@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @topito77
 - 👀 I’m interested in basic coding
-- 🌱 I’m currently learning politics and economics
+- 🌱 I’m currently learning data analytics and have a background in polsci
 - 💞️ I’m looking to collaborate on tbd
 - 📫 How to reach me tbd
 
